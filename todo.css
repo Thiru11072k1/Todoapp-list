@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    text-align:center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
+.sign{
+    margin-right:-0px ;
+}
+.login{
+    margin-right:-1100px ;
+}
+h3{
+    color:red;
+    font-style: italic;
+}

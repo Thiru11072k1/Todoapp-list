@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+}
+.todo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 3px;
+    margin-top: 10px;
+    border:1px solid #cccccc
+}
+#logout{
+    margin-right:-1100px ;
+}
